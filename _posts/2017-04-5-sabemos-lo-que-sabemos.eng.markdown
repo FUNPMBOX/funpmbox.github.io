@@ -6,9 +6,10 @@ goal: "&bull; To identify the knowledge and skills of a team.<br></br>
 "
 players: "3-12"
 playtime: "20-25"
-phase: "Playing"
+meetingphase: "Playing"
+groupphase: "Storming"
 date:   2014-04-20 09:11:03
-imageurl: "/img/conoce_a_tus_compañeros.png"
+imageurl: "/img/sabemos_lo_que_sabemos.eng.png"
 categories: jekyll update test
 lang: eng
 material: "

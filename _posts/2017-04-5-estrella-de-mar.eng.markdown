@@ -5,9 +5,10 @@ goal: " &bull;  To analyse the tasks that the team are doing, in order to know w
 "
 players: "3-12"
 playtime: "15-20"
-phase: "Playing"
+meetingphase: "Playing"
+groupphase: "Performing"
 date:   2014-04-20 09:11:03
-imageurl: "/img/camino_al_exito.png"
+imageurl: "/img/estrella_de_mar.eng.png"
 categories: jekyll update test
 lang: eng
 material: "

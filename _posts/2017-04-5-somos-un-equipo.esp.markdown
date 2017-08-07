@@ -5,9 +5,10 @@ goal: "&bull; Consensuar entre todos los miembros los aspectos que definen al eq
 "
 players: "3-12"
 playtime: "15-20"
-phase: ""
+meetingphase: "Calentamiento"
+groupphase: "Normalización"
 date:   2014-04-20 09:11:03
-imageurl: "/img/conoce_a_tus_compañeros.png"
+imageurl: "/img/somos_un_equipo.png"
 categories: jekyll update test
 lang: esp
 material: "

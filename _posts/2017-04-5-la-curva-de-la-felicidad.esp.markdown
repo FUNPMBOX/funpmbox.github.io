@@ -6,9 +6,10 @@ goal: "&bull; Identificar los problemas que ha tenido el equipo en un periodo de
 "
 players: "3-12"
 playtime: "10-15"
-phase: "Playing"
+meetingphase: "Desarrollo"
+groupphase: "Desempeño"
 date:   2014-04-20 09:11:03
-imageurl: "/img/conoce_a_tus_compañeros.png"
+imageurl: "/img/curva_felicidad.jpg"
 categories: jekyll update test
 lang: esp
 material: "

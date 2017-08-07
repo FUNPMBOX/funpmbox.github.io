@@ -7,9 +7,10 @@ goal: " &bull;  To establish strengths and weaknesses of the team that influence
 "
 players: "3-12"
 playtime: "20-25"
-phase: "Playing"
+meetingphase: "Playing"
+groupphase: "Performing"
 date:   2014-04-20 09:11:03
-imageurl: "/img/camino_al_exito.png"
+imageurl: "/img/camino_al_exito.jpg"
 categories: jekyll update test
 lang: eng
 material: "

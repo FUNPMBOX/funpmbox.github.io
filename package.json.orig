@@ -30,7 +30,10 @@
   },
   "homepage": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync",
   "dependencies": {
+<<<<<<< HEAD
     "browser-sync": "^1.9.2"
+=======
     "gulp-util": "^3.0.8"
+>>>>>>> origin/master
   }
 }
